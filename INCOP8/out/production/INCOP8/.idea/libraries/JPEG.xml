@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JPEG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JPEG.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
